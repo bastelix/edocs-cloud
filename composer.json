@@ -8,7 +8,7 @@
         "slim/psr7": "^1.8",
         "twig/twig": "^3.22",
         "slim/twig-view": "^3.3",
-        "setasign/fpdf": "^1.8",
+        "setasign/fpdf": "^1.9",
         "setasign/fpdi": "^2.6",
         "intervention/image": "^3.11",
         "ext-exif": "*",
